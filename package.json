@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vivekjain202/Backend-service-practice/issues"
   },
-  "homepage": "https://github.com/vivekjain202/Backend-service-practice#readme"
+  "homepage": "https://github.com/vivekjain202/Backend-service-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
